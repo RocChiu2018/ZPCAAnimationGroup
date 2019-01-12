@@ -1,0 +1,2 @@
+# ZPCAAnimationGroup
+本Demo主要介绍了如何利用CAAnimationGroup类在一个控件上同时执行多个动画。
